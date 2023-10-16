@@ -1,0 +1,12 @@
+#featurette1{
+    padding-top: 25px;
+    padding-left: 25px;
+}
+#school-photo{
+    border-radius: 5px;
+    object-fit:cover;
+}
+#college-photo{
+    border-radius: 5px;
+    object-fit:cover;
+}
